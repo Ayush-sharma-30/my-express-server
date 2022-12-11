@@ -1,0 +1,22 @@
+1) npm init
+2) npm install package_name
+3) go to atom and incorporate that package using require keyword.
+4) go to hyper and type, node fileName.js
+
+
+
+HYPER COMMANDS:
+mkdir: make a new directory.
+touch file_name : make a new file.
+pwd: gives present working directory.
+cd .. : go back one directory up.
+
+REPL(read evaluation print loop--> run a program line by line, i.e., write one line and hit enter to execute it).
+-> To enter into REPL mode, type node and hit enter.
+
+
+To execute a node file using hyper, type node file_name.js
+
+When you want to open a project in atom, just make sure you are in that directory and then type: atom . in hyper.
+
+To add express into website, initialise npm and then type: npm install express.
